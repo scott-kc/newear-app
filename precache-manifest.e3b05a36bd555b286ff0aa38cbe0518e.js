@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "c4e153dcca86a9796eaf",
+    "revision": "3de4e49de9725022eb90",
     "url": "/newear-app/static/css/main.472d3ea3.chunk.css"
   },
   {
-    "revision": "c4e153dcca86a9796eaf",
-    "url": "/newear-app/static/js/main.52e3c91e.chunk.js"
+    "revision": "3de4e49de9725022eb90",
+    "url": "/newear-app/static/js/main.3265806e.chunk.js"
   },
   {
     "revision": "ab1aa74873359a17dfd7",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/newear-app/static/js/2.7206999d.chunk.js"
   },
   {
-    "revision": "bc8f063470fcc7423b2c3ae194e14557",
+    "revision": "835e4cbc15e9da48279b3942ab80508d",
     "url": "/newear-app/index.html"
   }
 ];
