@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/newear-app/precache-manifest.32c857f7cdf13fdef0cf8dd6bfa476e7.js"
+  "/newear-app/precache-manifest.fa0d3ceb3d28ce81195d190572455eb8.js"
 );
 
 workbox.clientsClaim();
