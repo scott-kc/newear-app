@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/scott-kc/newear-app/precache-manifest.b3193987b5756d6a34494101f121d4fe.js"
+  "/newear-app/precache-manifest.7ba8eeff557db77f8350ea9208103e6d.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/scott-kc/newear-app/index.html", {
+workbox.routing.registerNavigationRoute("/newear-app/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
